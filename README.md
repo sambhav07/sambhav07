@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Cisco Fog Director](https://www.cisco.com/c/en/us/products/cloud-systems-management/fog-director/index.html)
 
-- 🌱 I’m currently learning **Distributed Systems, Microservices Architecture, Spring.**
+- 🌱 I’m currently learning **distributed Systems, microservices srchitecture, spring.**
 
 - 📫 How to reach me **sambhav.k.jain1611@gmail.com**
 
-- ⚡ Fun fact **Still searching for it**
+- ⚡ Fun fact **still searching for it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
